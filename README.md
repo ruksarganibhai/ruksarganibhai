@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruksarganibhai
-- 👀 I’m interested in Mobile App development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Mobile App and Web development
+- 🌱 I’m currently learning Web Development and React-Native 
 - 📫 How to reach me https://github.com/ruksarganibhai
 
 <!---
